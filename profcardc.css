@@ -1,0 +1,45 @@
+.entire{
+    font-family:"Arial, sans-serif";
+    width: 500px;
+    height: 400px;
+    box-shadow: 0 0 10px 10px rgba(89, 87, 85, 0.596);
+    margin-top: 40px;
+    margin-left: 400px;
+    border-radius: 6px;
+}
+.header h1{
+    font-size: 32px;
+    text-align: center;
+    padding-top: 20px;
+    background-color: rgba(125, 149, 92, 0.409);
+}
+
+.bio{
+    font-size: 16px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    line-height:24px;
+    padding-left: 250px;
+}
+.skills{
+    font-size: 14px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: #efefef;
+    width: 90%;
+}
+ul li{
+    background-color: #f5f5f5;
+}
+.prof_image img{
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.prof_image{
+    float: left;
+}
+.skills{
+    float: right;
+}

@@ -1,0 +1,44 @@
+h1{
+    color:#eee;
+    font-size: 28px;
+    text-align: center;
+    padding:20px 0;
+    margin-bottom: 20px;
+}
+header{
+    background-color: #333;
+}
+.cont{
+    width:1024px;
+    margin:0 auto; /*nə olduğunu bilmirəm şərtdə verilib*/
+}
+h2{
+    font-size: 24px;
+}
+a{
+    color: #d21034;
+}
+#bio{
+    width:70%;
+}
+#bio-img{
+    width: 200px;
+    height: 200px;
+    margin-right: 20px;
+}
+#info{
+    width: 30%;
+
+}
+#bio, #bio-img, #info{
+    float: left;
+}
+body{
+    font-family: Georgia, "Times New Roman", Times, serif;
+    background-color: #efeee7;
+    color: #333333;
+    margin: 0;
+    padding:0;
+    line-height: 16px;
+
+}

@@ -1,0 +1,26 @@
+body{
+    background-color: #f0f0f0;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.card1,.card2, .card3{
+    border: 2px solid rgb(126, 129, 129);
+    float: left;
+    width: 30%;
+    margin:20px;
+    
+}
+.price-cards, h2{
+    text-align: center;
+}
+.price-cards,li{
+    list-style: none;
+}
+.price-cards button{
+    width:100px;
+    height:30px;
+    margin-bottom: 20px;
+    background-color: chartreuse;
+}
+.price-cards ul{
+    padding-right: 40px;
+}
